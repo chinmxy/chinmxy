@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, this is Chinmay! 
 
 <!--
 **chinmxy/chinmxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Would like to get in touch? Here is my public key
+ <br> 
+ <a href='https://keybase.io/chinmxy'><img src="https://img.shields.io/keybase/pgp/pushpak1300?color=pinl&label=PGP&style=for-the-badge"/></a></br>
+ <br>
+
+
 #### You can find me on these accounts!
 
 <p>
