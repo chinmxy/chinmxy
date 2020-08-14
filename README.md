@@ -1,4 +1,4 @@
-### Hey, this is Chinmay! ⚡
+### Hey there, this is Chinmay! ⚡
 
 #### Would like to get in touch? Here is my public key 
  <a href='https://keybase.io/chinmxy'><img src="https://img.shields.io/badge/PGP-7CEF%209761%20656C%20436F-brightgreen?style=for-the-badge"/></a></br>
